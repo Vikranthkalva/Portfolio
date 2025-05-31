@@ -35,7 +35,7 @@ Ensure that you have already installed:
 1. **Download this project:**  
 
    ```bash  
-   git clone https://github.com/EkiZR/Portofolio_V5.git  
+   git clone https://github.com/Vikranthkalva/Portfolio.git  
    ```  
 
 2. **Install all dependencies:**  
